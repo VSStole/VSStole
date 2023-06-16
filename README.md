@@ -1,7 +1,7 @@
 ![logo](https://cutewallpaper.org/21/galaxy-background-gif/About-Massive-Galaxy-Online-Space-Trading-Adventure-Game.gif)
 
 <h1 align="center">Hi 👋, I'm Stojan</h1>
-<h3 align="center">I like to code, program, and make this world a better place for life!</h3>
+<h3 align="center">I like to code, program and make this world a better place for life!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsstole&label=Profile%20views&color=0e75b6&style=flat" alt="vsstole" /> </p>
 
