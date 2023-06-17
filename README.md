@@ -42,13 +42,14 @@
 
  ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
- 
+ <div class="footer" align="center" style="margin:15px;">
+
  ![VSStole GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsstole&show&icons=stars&count_private=true&showicons=true&theme=algolia&border_radius=20)
 ![GitHub Streak](https://streak-stats.demolab.com?user=vsstole&show_icons_private=true&theme=algolia&border_radius=20)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsstole&show&_icons=compact&show_icons=true&theme=algolia&border_radius=20)
 
- 
+ </div><hr>
  <div class="footer" align="center" style="margin:15px;">
    <a href="https://www.youtube.com/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
