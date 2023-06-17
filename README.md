@@ -35,8 +35,10 @@
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+ ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
  </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsstole&show_icons=true&locale=en&layout=compact" alt="vsstole" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsstole&show_icons=true&locale=en" alt="vsstole" /></p>
