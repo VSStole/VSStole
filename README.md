@@ -15,7 +15,9 @@
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 
-
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
  
 <p align="left" 
 
@@ -34,7 +36,7 @@
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)</p>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
@@ -47,5 +49,13 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsstole&show&_icons=compact&show_icons=true&theme=algolia&border_radius=20)
 
  
- 
+ <div class="footer" align="center" style="margin:15px;">
+   <a href="https://www.youtube.com/" target="_blank">
+        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
+    </a>
+    <a href="#" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
+<!-- End Footer -->
  
