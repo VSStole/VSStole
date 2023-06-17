@@ -1,8 +1,8 @@
 ![logo](https://cutewallpaper.org/21/galaxy-background-gif/About-Massive-Galaxy-Online-Space-Trading-Adventure-Game.gif)
 
-<h1 align="center">Hi 👋, I'm Stojan</h1>
+<h1 align="center"style="color: #44AEFB;"> 👨🏻‍💻 Hi 👋, I'm Stojan</h1>
 <h3 align="center">I like to code, program, and make this world a better place for life!</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" height="200"src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsstole&label=Profile%20views&color=0e75b6&style=flat" alt="vsstole" /> </p>
 
  
@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stojan vujosevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stojan vujosevic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stojan-vujo%C5%A1evi%C4%87-792949240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stojan vujosevic" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 
 
  
@@ -40,10 +40,12 @@
 
  ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
- </p>
+ 
+ ![VSStole GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsstole&show&icons=stars&count_private=true&showicons=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=vsstole&show_icons_private=true&theme=algolia&border_radius=20)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsstole&show_icons=true&locale=en&layout=compact" alt="vsstole" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsstole&show&_icons=compact&show_icons=true&theme=algolia&border_radius=20)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsstole&show_icons=true&locale=en" alt="vsstole" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsstole&" alt="vsstole" /></p>
+ 
+ 
+ 
